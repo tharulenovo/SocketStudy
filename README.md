@@ -81,9 +81,9 @@ c.close()
 
 ## Output:
 
-<img width="1553" height="981" alt="image" src="https://github.com/user-attachments/assets/4065cf06-02f9-4a16-accc-fe17b5775feb" />
+<img width="1367" height="615" alt="image" src="https://github.com/user-attachments/assets/2d0bb278-1bf1-4934-af1b-6fce3bdd6973" />
 
-<img width="1552" height="988" alt="image" src="https://github.com/user-attachments/assets/637e124c-c402-41cd-9281-6bfe2ad51cc2" />
+<img width="1290" height="532" alt="image" src="https://github.com/user-attachments/assets/5f01b7c1-ff45-4c9e-9fea-89733c7e3369" />
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
